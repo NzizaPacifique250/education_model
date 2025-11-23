@@ -8,13 +8,13 @@ This project addresses the critical challenge of understanding how government ed
 
 The prediction API is publicly available and can be accessed via Swagger UI for interactive testing:
 
-**API Base URL:** `[https://education-model-api.onrender.com]`
+**API Base URL:** `https://education-model-api.onrender.com`
 
-**Swagger UI Documentation:** ` [https://education-model-api.onrender.com/docs] `
+**Swagger UI Documentation:** `https://education-model-api.onrender.com/docs`
 
-**Prediction Endpoint:** `POST [https://education-model-api.onrender.com/predict]`
+**Prediction Endpoint:** `POST https://education-model-api.onrender.com/predict`
 
-**Flutter App Repositry:** `[https://github.com/NzizaPacifique250/edication_predictor_app.git]`
+**Flutter App Repositry:** `https://github.com/NzizaPacifique250/edication_predictor_app.git`
 
 The API accepts JSON input with the following parameters:
 - `year` (integer, 2000-2030): Year of data
@@ -36,7 +36,7 @@ The API accepts JSON input with the following parameters:
 
 ## Video Demo
 
-**YouTube Video Demo:** [https://youtu.be/a2i492JF32o]
+**YouTube Video Demo:** https://youtu.be/a2i492JF32o
 
 The video demonstration (maximum 5 minutes) showcases the model's functionality, API usage, and prediction capabilities.
 
